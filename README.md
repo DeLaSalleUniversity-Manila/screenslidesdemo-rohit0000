@@ -4,8 +4,8 @@ screenslidesdemo-rohit0000 created by Classroom for GitHub
 
 ##Screenshot
 
-![screenshot](First.png)
+![screenshot](first.png)
 
-![screenshot](Next.png)
+![screenshot](next.png)
 
-![screenshot](Last.png)
+![screenshot](last.png)
